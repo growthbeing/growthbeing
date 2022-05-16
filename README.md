@@ -1,19 +1,25 @@
 ### Hi there👋, 
 <link rel="preload" href="https://i.giphy.com/media/3o7aCScwdMAohPCq76/giphy.webp" alt="Working" width="200" height="100" />
-<img src="https://i.giphy.com/media/3o7aCScwdMAohPCq76/giphy.webp" alt="growthbeing" width="200" height="200" />
+<img src="https://i.giphy.com/media/3o7aCScwdMAohPCq76/giphy.webp" alt="growthbeing" width="200" height="200"/>
 
 
-## Myself
+## About Myself
 
 ```js
 me.developerAlias('growthbeing');
-me.workFor('open source projects'||'enterprise projects');
+me.workFor('open source projects'||'enterprise projects || startups');
 ```
 - 🔭 Into __Fullstack Development & Data Science__
 - 🌱 Currently learning and working on __Enterprise Projects__ 
 - 👯 Happy to collaborate on __Open Source projects__
 - 🤔 Other interests  in __Machine Learning__ ,  __Blockchain__
 - ⚽ Hobbies are __Reading Books, Music, Travelling, Nature Explorer__
+
+<details>
+<summary>Find me here</summary>
+- Mail <a href="mailto:growthbeingv@gmail.com">growthbeingv@gmail.com</a>
+- Twitter <a href="https://twitter.com/growthbeing">@growthbeing</a>
+</details>
 
 ## Skills
 
