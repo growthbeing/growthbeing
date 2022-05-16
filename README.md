@@ -7,7 +7,7 @@
 
 ```js
 me.developerAlias('growthbeing');
-me.workFor('open source projects'||'enterprise projects || startups');
+me.workFor('open source projects'||'enterprise projects' || 'startups');
 ```
 - 🔭 Into __Fullstack Development & Data Science__
 - 🌱 Currently learning and working on __Enterprise Projects__ 
