@@ -17,8 +17,8 @@ me.workFor('open source projects'||'enterprise projects' || 'startups');
 
 <details>
 <summary>Find me here</summary>
-- Mail <a href="mailto:growthbeingv@gmail.com">growthbeingv@gmail.com</a>
-- Twitter <a href="https://twitter.com/growthbeing">@growthbeing</a>
+<em>Mail</em> - <a href="mailto:growthbeingv@gmail.com">growthbeingv@gmail.com</a><br>
+<em>Twitter</em> - <a href="https://twitter.com/growthbeing">@growthbeing</a><br>
 </details>
 
 ## Skills
