@@ -1,5 +1,8 @@
-### Hi there👋, 
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=My+Github+profile!&fontSize=20&fontAlignY=40&color=bd89bd) 
 <link rel="preload" href="https://i.giphy.com/media/3o7aCScwdMAohPCq76/giphy.webp" alt="Working" width="200" height="100" />
+
+### Hi there👋, 
+
 <img src="https://i.giphy.com/media/3o7aCScwdMAohPCq76/giphy.webp" alt="growthbeing" width="200" height="200"/>
 
 
