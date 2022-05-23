@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=My+Github+profile!&fontSize=20&fontAlignY=40&color=bd89bd) 
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=My+Github+profile!&fontSize=30&fontAlignY=40&color=bd89bd) 
 <link rel="preload" href="https://i.giphy.com/media/3o7aCScwdMAohPCq76/giphy.webp" alt="Working" width="200" height="100" />
 
 ### Hi there👋, 
