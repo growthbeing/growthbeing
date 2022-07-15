@@ -57,5 +57,7 @@ me.workFor('open source projects'||'enterprise projects' || 'startups');
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=growthbeing&margin-w=15&margin-h=15" alt="growthbeing" /></a> </p>
 
 
+![spotify-github-profile](https://spotify-github-profile-omega.vercel.app/api/view?uid=31l3ijqfft6ht33x6wonxee5ky5u&cover_image=true&theme=novatorem)
+
 <p> <img src="https://komarev.com/ghpvc/?username=growthbeing&label=Profile%20views&color=0e75b6&style=flat" alt="growthbeing">
 <img src="https://badges.pufler.dev/visits/growthbeing/growthbeing?color=black&logo=github&style=flat-square" alt="growthbeing"> </p>
