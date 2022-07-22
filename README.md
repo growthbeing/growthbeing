@@ -51,6 +51,8 @@ me.workFor('open source projects'||'enterprise projects' || 'startups');
 <details>
 <summary>Click for GitHub Stats</summary>
 <p><img alt = "GitHub Stats" src="https://readme-stats-rho-one.vercel.app/api?username=growthbeing&show_icons=true&count_private=true&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555"></p>
+   <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=growthbeing&bg_color=FFF&hide_border=true" alt="growthbeing" /></p>
+
 </details>
 
 
